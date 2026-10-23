@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 2h | 1 |
+| Week 3 | Tier 1 | 1.5h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-23 – I did the project's schematic. I designed the main design and schematic for the project.  It is  going to be a small drum set, with 8 touch sensitive buttons, and a speaker for playing the audio. It w
 
-**2h**
+**1.5h**
 
 I did the project's schematic. I designed the main design and schematic for the project.  It is  going to be a small drum set, with 8 touch sensitive buttons, and a speaker for playing the audio. It will be controlled by a XIAO ESP32-S3. I chose this microcontroller, because it is small, let's me use touch sensitive buttons, and has enough power to play the audio.Here's my drawing of how it will fit together:
 
