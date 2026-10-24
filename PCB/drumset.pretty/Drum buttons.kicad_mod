@@ -1,0 +1,330 @@
+(footprint "Drum buttons"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "2d6af109-470f-4deb-9fab-e208f2b57052")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Drum buttons"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e32c90ae-d9af-4321-906c-27014f6d3296")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2b2cbd96-9054-4c47-8b39-e323e760e17b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e38088b7-c2af-4801-aeae-fa21913b1995")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center -34.25 -30.25)
+		(end -24.05 -30.25)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "74e30e86-4ccc-4ce3-a5e6-ca2056c0d091")
+	)
+	(fp_circle
+		(center -21 -46)
+		(end -12.8 -46)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "8a73276d-94ee-4d96-8785-f7d53ad40a9d")
+	)
+	(fp_circle
+		(center -20.5 -12.5)
+		(end -10.3 -12.5)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b91a377a-a88e-4713-b1e3-513f925c1df2")
+	)
+	(fp_circle
+		(center -10.5 -31)
+		(end -2.3 -31)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "844f7daf-fac1-4857-be9d-3565829c69e5")
+	)
+	(fp_circle
+		(center 10.5 -31)
+		(end 18.7 -31)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "886a1598-6128-46ec-ad8d-8ba5906f0d25")
+	)
+	(fp_circle
+		(center 20.5 -12.5)
+		(end 30.7 -12.5)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "c208bff6-f742-4028-8ac6-17a216ae3101")
+	)
+	(fp_circle
+		(center 21 -46)
+		(end 29.2 -46)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d6c04731-1392-4142-96d6-fb45a68c5132")
+	)
+	(fp_circle
+		(center 34.25 -30.25)
+		(end 44.45 -30.25)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "1018c682-2811-4d0a-b535-6246f900a5c0")
+	)
+	(fp_rect
+		(start -45 -55)
+		(end 45 -1.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "3e1f73bd-0e23-4327-b9dd-7071041390ef")
+	)
+	(fp_text user "Ride cymbal"
+		(at -44.25 -18 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f55aa14b-c782-403d-aaa3-8273ce15fea8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "Floor tom"
+		(at -37.5 -42.25 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "37d2dbb9-bc29-4fbd-b1df-a29e8d9e88a6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "Snare"
+		(at -31.75 -2.75 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9c4d18f2-443a-4799-ba47-8d996ea7eb4d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "Open hi-hat"
+		(at -11.25 -20.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e0151c1f-dd38-43fc-85e5-1e764a3cf505")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "Closed hi-hat"
+		(at 1.25 -20.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "ccd83b74-2292-4d17-9509-4c3539702653")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "Kick drum"
+		(at 26.75 -2.75 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "5ce03dd7-dd52-44e0-85a7-3a81fdc3df17")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "High tom"
+		(at 29.75 -42.25 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c716ecd5-2e33-46ee-a4ed-37aeba956602")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "Crash cymbal"
+		(at 34.5 -18 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "579d2cb8-2fc1-4a1f-8d8a-f04cc93c5835")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "8dfc34da-2325-4b8b-b818-c6e3c67dba88")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd circle
+		(at 20.5 -12.5)
+		(size 20 20)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9b85a0b0-73df-4518-ab83-dd32cb2b6e15")
+	)
+	(pad "2" smd circle
+		(at -20.5 -12.5)
+		(size 20 20)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ed9c49bf-2ee5-426e-a103-b81663c4bf89")
+	)
+	(pad "3" smd circle
+		(at 21 -46)
+		(size 16 16)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f00bb960-d3f5-42e2-8fa9-443c13f9cc2f")
+	)
+	(pad "4" smd circle
+		(at -21 -46)
+		(size 16 16)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1cd9d9e6-7db4-4e4f-af82-315d487e7e7b")
+	)
+	(pad "5" smd circle
+		(at 10.5 -31)
+		(size 16 16)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "be785099-334e-49cd-9cc7-2f49adf6b9e1")
+	)
+	(pad "6" smd circle
+		(at -10.5 -31)
+		(size 16 16)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "604521c0-6e1a-441f-a29b-475c0246be49")
+	)
+	(pad "7" smd circle
+		(at 34.25 -30.25)
+		(size 20 20)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7f7d29b3-d976-4f57-8fdc-72583d5b6d1d")
+	)
+	(pad "8" smd circle
+		(at -34.25 -30.25 90)
+		(size 20 20)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b6c64b81-d243-4d93-8631-f4da5f4072f7")
+	)
+	(embedded_fonts no)
+)
