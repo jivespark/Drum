@@ -8,3 +8,9 @@ My first idea was that I want to just make a bunch of buttons for the drums, and
 To assemble you just need to solder everything into the PCB, since all components are through hole, it shouldn't be too hard. You just need to screw the case on using M3 screws, and pop the speaker into the hole designed for it(note that the speaker hole might not be accurate, since I don't have the exact speaker yet, and they had no technical drawing available) The firmware is running on circuitpython, and can be downloaded [here](https://circuitpython.org/board/seeed_xiao_esp32s3/), after flashing that, you just need to upload everything in the firmware folder(code.py and the sounds folder) to the board, and you should be done.(note that the capacitive touch sensing may  need to be calibrated, but since I haven't built the project yet, I can't test exact calibration settings. This will be updated when I build the project).
 
 ## Images:  
+Cad render:  
+![Cad](https://github.com/jivespark/Drum/blob/main/Pictures/CAD.png?raw=true)
+Schematic:  
+![Schematic](https://github.com/jivespark/Drum/blob/main/Pictures/Schematic.png?raw=true)
+PCB:  
+![PCB](https://github.com/jivespark/Drum/blob/main/Pictures/PCB.png?raw=true)
