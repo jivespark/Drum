@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 9h | 4 |
+| Week 3 | Tier 1 | 8.5h | 4 |
 
 ## Contents
 
@@ -66,7 +66,7 @@ After that I brought that into fusion, and done a case/holder around it, to hold
 
 ### 2026-10-25 – I did the finishing touches, and got everything ready for submission. First I had done the firmware, but I tracked that with hackatime, so I won't include that here, but it went pretty smoothly with t
 
-**2h**
+**1.5h**
 
 I did the finishing touches, and got everything ready for submission. First I had done the firmware, but I tracked that with hackatime, so I won't include that here, but it went pretty smoothly with the docs. I also tracked writing the README with hackatime, so that is also not included in this devlog. One thing that the hackatime did not include,  was choosing the sounds to play with the ESP32,  which I did by downloading a sound pack that was thankfully fully free, and didn't require any credits, but then I had to select a sound for each type of drum, which was pretty complicated, since I know nothing about drums, and the filenames weren't helping too much. After I got that sorted I did the README, and got the gerbers for the PCB. To  save on costs, I downloaded JLCPCB's app, which got like 5$ off the BOM, so that was definetly appreciated.
 
