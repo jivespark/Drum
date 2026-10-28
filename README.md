@@ -14,3 +14,13 @@ Schematic:
 ![Schematic](https://github.com/jivespark/Drum/blob/main/Pictures/Schematic.png?raw=true)
 PCB:  
 ![PCB](https://github.com/jivespark/Drum/blob/main/Pictures/PCB.png?raw=true)
+
+##BOM
+| Item                     | Qty | Supplier   | Cost/item | Total Cost | link                                                  |
+|--------------------------|-----|------------|-----------|------------|-------------------------------------------------------|
+| XIAO ESP32-S3            | 1   | Aliexpress | $10.57    | $10.57     | https://www.aliexpress.com/item/1005007870593864.html |
+| MAX98357 audio amplifier | 1   | Aliexpress | $1.62     | $1.62      | https://www.aliexpress.com/item/1005009356741606.html |
+| 40mm speaker             | 1   | Aliexpress | $2.86     | $2.86      | https://www.aliexpress.com/item/1005006335969407.html |
+| PCB                      | 1   | JLCPCB     | $4.00     | $4.00      | https://jlcpcb.com/quote                              |
+| Screws                   | 1   | Aliexpress | $2.08     | $2.08      | https://www.aliexpress.com/item/4000117933430.html    |
+| Estimated total shipping | 1   |            |           | $9.00      |                                                       |
